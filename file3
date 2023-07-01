@@ -1,2 +1,6 @@
 file 3 z nowego brancha
+<<<<<<< HEAD
 edit z mastera
+=======
+123123
+>>>>>>> 82d9b8c (Fix from  hotfix branch)
